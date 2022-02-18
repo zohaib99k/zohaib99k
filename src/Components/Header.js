@@ -44,6 +44,7 @@ background-color: #090b13;
 display: flex;
 align-items: center;
 padding: 0 36px;
+overflow: hidden;
 `
 const Logo = styled.img`
 width: 80px;
